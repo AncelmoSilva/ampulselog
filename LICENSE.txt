@@ -1,0 +1,88 @@
+GNU LESSER GENERAL PUBLIC LICENSE (LGPL) MODIFIED BY FPC
+Version 2.1, February 1999
+
+Component: AmpulseLog (Derived from TCustomListBox)
+https://github.com/AncelmoSilva/ampulselog/
+Copyright (C) 2026 R. Ancelmo Silva
+Contacts: suporte@raquel.adm.br
+
+-------------------------------------------------------------------------------
+SPECIAL LINKING EXCEPTION (Free Pascal Team Clause):
+
+As a special exception to the LGPL rules, the copyright holder of this 
+component explicitly authorizes the linking (either statically or dynamically) 
+of this component with other modules to produce an executable file, 
+regardless of the license of those other modules.
+
+This permission does not invalidate any other reasons why the resulting 
+executable file might be covered by the GNU General Public License.
+
+This exception frees you (the developer using the component) from the 
+obligation to provide the source code of your main application, allowing 
+the creation of commercial and closed-source software using the AmpulseLog component.
+-------------------------------------------------------------------------------
+
+LICENSE TERMS SUMMARY:
+
+1. FREEDOM OF USE: You are allowed to use this component free of charge 
+   in any type of project, including commercial and proprietary software.
+
+2. MODIFICATIONS TO THE COMPONENT: If you make modifications directly to the 
+   source code of this component (AmpulseLog) and distribute those changes, 
+   you are REQUIRED to make the modified code publicly available under this same license.
+
+3. NO WARRANTY: This component is distributed in the hope that it will be useful, 
+   but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY 
+   or FITNESS FOR A PARTICULAR PURPOSE.
+
+4. MAINTENANCE OF RIGHTS: The original author's copyright notice and this 
+   license notice must be preserved in all copies of the source code.
+
+
+
+
+
+************ Versão em Português .br *******************
+
+LICENÇA PÚBLICA GERAL MENOR GNU (LGPL) MODIFICADA PELO FPC
+Versão 2.1, Fevereiro de 1999
+
+Componente: AmpulseLog (Derivado de TCustomListBox)
+https://github.com/AncelmoSilva/ampulselog/
+Copyright (C) 2026 R. Ancelmo Silva
+Contatos: suporte@raquel.adm.br
+
+-------------------------------------------------------------------------------
+EXCEÇÃO ESPECIAL DE VINCULAÇÃO (Cláusula do Free Pascal Team):
+
+Como exceção especial às regras da LGPL, o detentor dos direitos autorais deste 
+componente autoriza explicitamente a vinculação (seja de forma estática ou 
+dinâmica) deste componente com outros módulos para produzir um arquivo executável, 
+independentemente da licença desses outros módulos.
+
+Esta permissão não invalida quaisquer outros motivos pelos quais o arquivo 
+executável resultante possa estar coberto pela Licença Pública Geral GNU.
+
+Esta exceção libera você (o desenvolvedor que utiliza esse componente) da obrigação 
+de fornecer o código-fonte do seu aplicativo principal, permitindo a criação de 
+softwares comerciais e de código fechado usando o componente AmpulseLog.
+
+-------------------------------------------------------------------------------
+
+RESUMO DOS TERMOS DA LICENÇA:
+
+1. LIBERDADE DE USO: Você tem permissão para usar este componente gratuitamente 
+   em qualquer tipo de projeto, incluindo softwares comerciais e proprietários.
+
+2. ALTERAÇÕES NO COMPONENTE: Se você fizer modificações diretamente no código-fonte 
+   deste componente (AmpulseLog) e distribuir essas alterações, você é OBRIGADO 
+   a disponibilizar o código modificado publicamente sob esta mesma licença.
+
+3. SEM GARANTIAS: Este componente é distribuído na esperança de que seja útil, 
+   mas SEM QUALQUER GARANTIA; sem mesmo a garantia implícita de COMERCIALIZAÇÃO 
+   ou ADEQUAÇÃO A UM PROPÓSITO ESPECÍFICO.
+
+4. MANUTENÇÃO DE DIREITOS: O aviso de direitos autorais do autor original e esta 
+   nota de licença devem ser preservados em todas as cópias do código-fonte.
+
+
