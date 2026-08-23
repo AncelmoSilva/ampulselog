@@ -328,7 +328,7 @@ end;
 
 
 
- { SETTERS - CORES DA FONTE }
+ { SETTERS - FONT COLORS - CORES DA FONTE }
 
 procedure TAmpulseLog.SetInfoColor(AValue: TColor);
 begin
@@ -423,7 +423,6 @@ end;
 
 
  { SETTERS  BEHAVIOR - SETTERS COMPORTAMENTO }
- //procedure TForm1.AmpulseLog1Click(Sender: TObject);
 
 procedure TAmpulseLog.SetAutoScroll(AValue: Boolean);
 begin
